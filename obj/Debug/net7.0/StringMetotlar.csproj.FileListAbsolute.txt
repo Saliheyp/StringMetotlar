@@ -1,0 +1,15 @@
+D:\Patika\StringMetotlar\bin\Debug\net7.0\StringMetotlar.exe
+D:\Patika\StringMetotlar\bin\Debug\net7.0\StringMetotlar.deps.json
+D:\Patika\StringMetotlar\bin\Debug\net7.0\StringMetotlar.runtimeconfig.json
+D:\Patika\StringMetotlar\bin\Debug\net7.0\StringMetotlar.dll
+D:\Patika\StringMetotlar\bin\Debug\net7.0\StringMetotlar.pdb
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.csproj.AssemblyReference.cache
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.AssemblyInfoInputs.cache
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.AssemblyInfo.cs
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.csproj.CoreCompileInputs.cache
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.dll
+D:\Patika\StringMetotlar\obj\Debug\net7.0\refint\StringMetotlar.dll
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.pdb
+D:\Patika\StringMetotlar\obj\Debug\net7.0\StringMetotlar.genruntimeconfig.cache
+D:\Patika\StringMetotlar\obj\Debug\net7.0\ref\StringMetotlar.dll
